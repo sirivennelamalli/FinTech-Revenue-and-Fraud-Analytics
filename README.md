@@ -37,7 +37,7 @@ The dataset contains credit card transaction records with customer, merchant, ge
 - Fraud Label
 - Demographic Information
 
-### Note: The original dataset is not included in this repository due to GitHub file size limitations.
+##### Note: The original dataset is not included in this repository due to GitHub file size limitations.
 ---
 
 ## Technology Stack
@@ -208,15 +208,19 @@ FinTech-Revenue-and-Fraud-Analytics/
 
 ## Dashboard Screenshots
 
-### Executive Financial Overview
+
+## Executive Financial Overview
 ![Executive Financial Overview](executive_financial_overview.png)
 
 
-### Customer & Market Insights
+
+## Customer & Market Insights
 
 ![Customer & Market Insights](customer_market_insights.png)
 
-### Fraud Risk Analytics
+
+
+## Fraud Risk Analytics
 
 ![Fraud Risk Analytics](fraud_risk_analytics.png)
 
