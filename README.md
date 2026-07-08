@@ -208,8 +208,8 @@ FinTech-Revenue-and-Fraud-Analytics/
 ## Dashboard Screenshots
 
 ### Executive Financial Overview
-
 executive_financial_overview.png
+
 
 ### Customer & Market Insights
 
